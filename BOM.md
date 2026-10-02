@@ -15,7 +15,7 @@
 | [Soldering Iron](https://www.amazon.com/dp/B0D86FF2M1?plpRedirect=mhFallback) | Soldering parts | 1 | $23.51 | $23.51 | [Amazon](https://www.amazon.com/dp/B0D86FF2M1?plpRedirect=mhFallback) |
 | [Male to Male Dupont Wires](https://www.adafruit.com/product/1955) | Wiring | 1 | $3.95 | $3.95 | [Adafruit](https://www.adafruit.com/product/1955) |
 | **Parts subtotal** | — | — | — | **$27.46** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$27.46** | — |
+| **Tax & shipping** | — | — | — | **$2.54** | — |
+| **Total** | — | — | — | **$30.00** | — |
 
-$2.54 left of the tier's funding.
+$0.00 left of the tier's funding.
